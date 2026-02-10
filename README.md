@@ -1,2 +1,2 @@
-# yashnarbek.Github
-yashnarbek.GitHub
+# yashnarbek.Github.com
+yashnarbek.GitHub.com
